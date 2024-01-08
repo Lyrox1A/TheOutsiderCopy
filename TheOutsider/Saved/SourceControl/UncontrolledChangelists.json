@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/TheOutsiderCopy/TheOutsider/Content/ThirdPerson/TheOutsider/Maps/L_MainMenu.umap",
+				"D:/GitHub/TheOutsiderCopy/TheOutsider/Content/ThirdPerson/TheOutsider/GameplayBlueprints/JumpscareAI/BPC_JumpscareAI.uasset",
+				"D:/GitHub/TheOutsiderCopy/TheOutsider/Content/ThirdPerson/TheOutsider/Maps/L_MainLevel.umap",
 				"D:/Epic Games/UE_5.2/Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset",
 				"D:/Epic Games/UE_5.2/Engine/Content/EngineMaterials/M_GlowingText.uasset",
 				"D:/Epic Games/UE_5.2/Engine/Content/EditorResources/FieldNodes/_Resources/DefaultTextMaterialOpaque.uasset",
